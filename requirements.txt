@@ -1,0 +1,26 @@
+# StreamAlerts - UPI Donation Overlay System
+# Core Dependencies
+
+# GUI Framework
+PySide6>=6.6.0
+
+# Web Server for OBS Integration
+flask>=3.0.0
+flask-cors>=4.0.0
+flask-socketio>=5.3.6
+python-socketio>=5.10.0
+
+# WebSocket Support
+websockets>=12.0
+gevent>=23.9.1
+gevent-websocket>=0.10.1
+
+# Utilities
+python-dateutil>=2.8.2
+pydantic>=2.5.0
+
+# Audio Support
+pygame>=2.5.2
+
+# Packaging
+pyinstaller>=6.3.0
